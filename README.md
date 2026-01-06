@@ -1,0 +1,2 @@
+# Airline-Frequent-Flyer-Classification-and-Segementation---DM-Algorithms
+This project implements data mining algorithms and KDD processes that includes multiple data preprocessing methodologies, visualizations, model comparisons and clustering algorithms to classify the customers based on whether they will cancel loyalty program membership using demographic and flight activity &amp; further groups them by just behavior.
